@@ -1,0 +1,11 @@
+ANESIS - Griechisches Restaurant in Soltau
+Vorschau-Website fuer GitHub Pages (alle Dateien liegen flach, ohne Unterordner)
+
+SO GEHT'S:
+1. ZIP entpacken.
+2. Im GitHub-Repository ALLE alten Dateien loeschen.
+3. "Add file" -> "Upload files": ALLE Dateien aus dem entpackten Ordner hochladen.
+   "index.html" muss ganz oben im Repository liegen.
+4. "Commit changes" klicken.
+5. Settings -> Pages: "Deploy from a branch", Branch "main", "/ (root)".
+6. Nach 1-2 Minuten ist die Seite online.
